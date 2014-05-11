@@ -1,9 +1,8 @@
+![](img/logo.png?raw=true)
 Sounds of the Streets
 ===============
 
-....
-
-> -
+**Explore     | Discover  |   Inspire**
 
 
 ----------------
@@ -11,25 +10,25 @@ Sounds of the Streets
 
 Designer/Developers
 -------------------
-**Audrius Dagys, Audrius Zujus, Ed Greig, Elvaia Vasconcelos, Robin Chong, and Thura Z.**
+**Andrius Dagys, Audrius Zujus, Ed Greig, Elvia Vasconcelos, Robin Chong, and Thura Z.**
 
 
 #### Technology Stack:
 **Front-end:**
 iOS app:
-:   Map View - Google Maps integration
-:   GPS location tracking
-:   Intelligent Headset API integration
-:   Direction-based sound
-:   UI for adding a pin on the map
+-   Map View with Google Maps integration
+-   GPS location tracking
+-   Intelligent Headset **API integration**
+-   Direction-based sound
+-   UI for adding a pin on the map
 
 **Back-end:**
 Database (Parse/MongoDB):
-:   Pin locations
-:   Information
-:   Pictures
-:   Sound (url)
-:   User
+-   Pin locations
+-   Information
+-   Pictures
+-   Sound (url)
+-   User
 
 
 #### Features Summary:
