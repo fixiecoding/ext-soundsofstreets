@@ -11,7 +11,7 @@ Sounds of the Streets
 
 Designer/Developers
 -------------------
-**Audrius Dagys, Audrius Zujus, Ed Greig, Robin Chong, and Thura Z.**
+**Audrius Dagys, Audrius Zujus, Ed Greig, Elvaia Vasconcelos, Robin Chong, and Thura Z.**
 
 
 #### Technology Stack:
