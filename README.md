@@ -1,4 +1,4 @@
-![](img/logo.png =100x20)
+![](img/logo.png?raw=true)
 Sounds of the Streets
 ===============
 
