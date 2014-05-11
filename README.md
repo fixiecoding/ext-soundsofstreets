@@ -1,4 +1,4 @@
-![](img/logo.png?raw=true)
+![](img/logo.png =100x20))
 Sounds of the Streets
 ===============
 
@@ -27,7 +27,7 @@ Database (Parse/MongoDB):
 -   Pin locations
 -   Information
 -   Pictures
--   Sound (url)
+-   Sound
 -   User
 
 
