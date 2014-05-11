@@ -20,7 +20,6 @@ iOS app:
 -   GPS location tracking
 -   Intelligent Headset **API integration**
 -   Direction-based sound
--   UI for adding a pin on the map
 
 **Back-end:**
 Database (Parse/MongoDB):
@@ -29,7 +28,7 @@ Database (Parse/MongoDB):
 -   Pictures
 -   Sound
 -   User
-
+-   API Used: **Facebook/Twitter**
 
 #### Features Summary:
 **1. Explore : FInd out what’s around you**
