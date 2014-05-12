@@ -28,7 +28,7 @@ Database (Parse/MongoDB):
 -   Pictures
 -   Sound
 -   User
--   API Used: **Facebook/Twitter**
+-   API Used: **Facebook | Twitter | Flcikr | Soundcloud**
 
 #### Features Summary:
 **1. Explore : FInd out what’s around you**
